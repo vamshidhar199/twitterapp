@@ -70,7 +70,7 @@ The model which has been trained in the previous step has been stored and downlo
 can be used with flask and integrated to a UI (web application)
 
 ## Model Comparison
-
+![alt](https://github.com/vamshidhar199/twitterapp/blob/master/bonusComparison.png)
 ## Flask Framework for UI Integrations
 Flask is a micro web framework written in Python. It is classified as a micro framework because it does not
 require particular tools or libraries. Flask is a powerful framework and is one of the most commonly used
@@ -84,6 +84,13 @@ A virtual environment has been created with name twitter ans installed all the n
 for the running of the application.
 The templates folder contains the code for HTML which basically displays the user screens.The folder
 structure is as shown below.
+
+
+
 The detailed code can be found at the git hub repository mentioned at the beginning of the document.
 The UI screens would look as shown below.
+
+![alt](https://github.com/vamshidhar199/twitterapp/blob/master/Screen%20Shot%202022-05-02%20at%201.50.04%20PM.png)
+![alt](https://github.com/vamshidhar199/twitterapp/blob/master/Screen%20Shot%202022-05-01%20at%203.59.39%20PM.png)
+![alt](https://github.com/vamshidhar199/twitterapp/blob/master/Screen%20Shot%202022-05-01%20at%204.00.16%20PM.png)
 
