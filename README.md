@@ -41,7 +41,7 @@ with similar meanings to one word.
 ### Bag of words and TF-IDF
 The bag-of-words model is a way of representing text data when modeling text with machine learning algorithms.
 The bag-of-words model is simple to understand and implement and has seen great success in problems such as
-language modeling and document classification
+language modeling and document classification. Also used TF-IDF as it is proven to provide better results compared to BOW.
 
 ## Modeling the data
 ### GaussianNB
