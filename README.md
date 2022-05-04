@@ -94,3 +94,7 @@ The UI screens would look as shown below.
 ![alt](https://github.com/vamshidhar199/twitterapp/blob/master/Screen%20Shot%202022-05-01%20at%203.59.39%20PM.png)
 ![alt](https://github.com/vamshidhar199/twitterapp/blob/master/Screen%20Shot%202022-05-01%20at%204.00.16%20PM.png)
 
+
+https://user-images.githubusercontent.com/42996478/166612771-88a60ed1-acb2-44fa-a3a9-e2f4d72301cf.mov
+
+
